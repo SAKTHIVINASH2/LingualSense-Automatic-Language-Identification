@@ -125,5 +125,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ### Contact
 For queries or feedback, reach out to:
 - Project Maintainer: SAKTHIVINASH
-- Organization: Infosys Internship Program 2024
+- EMAIL: sakthivinash2@gmail.com
 
