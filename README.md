@@ -62,7 +62,6 @@ The repository is organized as follows:
 LingualSense/
 ├── dataset/                     # Dataset files
 │   ├── LingualSense_dataset[1].csv            # Combined dataset
-├── models/                   # Pre-trained models
 ├── src/                  # Scripts for tasks
 │   ├── LingualSense_DL.ipynb # Deep learning notebook
 │   ├── LingualSense_ML.ipynb # Machine learning notebook
