@@ -1,7 +1,5 @@
 # LingualSense: Automatic Language Identification
 
-## Infosys Internship Project - October 2024
-
 ### Overview
 LingualSense is a machine learning model designed to automatically identify the language of a given text. Language identification plays a crucial role in applications such as:
 - Machine translation
